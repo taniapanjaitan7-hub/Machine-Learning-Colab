@@ -1,4 +1,14 @@
-tensorflow
+# Deep Learning Framework
+tensorflow==2.21.0
+
+# Numerical Computing
 numpy
-matplotlib
+
+# Image Processing
 pillow
+
+# Data Visualization
+matplotlib
+
+# Machine Learning Evaluation
+scikit-learn
