@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Google Colab and Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+datasets/
+data/
+*.zip
+
+# Machine Learning models
+*.h5
+*.keras
+*.tflite
+saved_model/
+
+# Training logs
+logs/
+runs/
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE configuration
+.vscode/
+.idea/
