@@ -13,6 +13,10 @@ env/
 
 # Dataset
 dataset/
+
+# Allow trained Pakcoy models
+!models/pakcoy_demo_3kelas.keras
+!models/pakcoy_demo_3kelas.tflite
 datasets/
 data/
 *.zip
